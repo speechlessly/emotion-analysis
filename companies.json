@@ -1,0 +1,40 @@
+{
+  "companies": [
+    {
+      "name": "海康威视",
+      "code": "002415",
+      "market": "SZ",
+      "event_date": "2022-12-28"
+    },
+    {
+      "name": "萤石网络",
+      "code": "688475",
+      "market": "SH",
+      "event_date": "2022-12-28"
+    },
+    {
+      "name": "贵州茅台",
+      "code": "600519",
+      "market": "SH",
+      "event_date": ""
+    },
+    {
+      "name": "中国平安",
+      "code": "601318",
+      "market": "SH",
+      "event_date": ""
+    },
+    {
+      "name": "招商银行",
+      "code": "600036",
+      "market": "SH",
+      "event_date": ""
+    },
+    {
+      "name": "三一重工",
+      "code": "600031",
+      "market": "SH",
+      "event_date": ""
+    }
+  ]
+}

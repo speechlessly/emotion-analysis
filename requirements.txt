@@ -1,0 +1,32 @@
+# 核心数据处理与网络
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=4.9
+openpyxl>=3.1
+
+# 可视化与词云
+streamlit>=1.30
+plotly>=5.18
+matplotlib>=3.7
+wordcloud>=1.9
+
+# 中文分词（可选，词云/情绪分词用）
+jieba>=0.42
+
+# 行情数据（可选，未安装或接口不可用时自动回退内置 CSV / 上传）
+akshare>=1.14
+
+# 导出（可选）
+python-docx>=1.1
+
+# 年报 PDF 文本提取（上传年报生成年报词云用）
+pdfplumber>=0.11
+
+# 环境变量（Cookie 等敏感信息，建议用 .env 管理）
+python-dotenv>=1.0
+
+# 测试
+pytest>=7.4
